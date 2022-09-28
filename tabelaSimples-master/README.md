@@ -22,7 +22,7 @@ portuguesa para simplificar o aprendizado, e conta com as funções básicas de 
 
 O primeiro passo para utilizar a linguagem é baixar o executável do compilador ou compilar o projeto você mesmo.
 
-Caso queira utilizar o executável, basta baixá-lo aqui
+Caso queira utilizar o executável, basta baixá-lo [aqui.](https://github.com/matheusporto/tabelaSimples/blob/main/tabelaSimples-master/target/tabelaSimples-1.0-SNAPSHOT-jar-with-dependencies.jar)
 
 Caso opte por compilar o projeto, siga os passos:
 
@@ -124,3 +124,5 @@ DELETE FROM filmes WHERE idadeMinima = 16;
 ******************************************************
 
 ## Video 
+
+https://youtu.be/NL_O1UmbN0o
