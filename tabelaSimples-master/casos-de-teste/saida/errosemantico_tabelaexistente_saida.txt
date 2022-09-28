@@ -1,0 +1,2 @@
+Linha 7: tabela contratos já existe!
+Fim da compilacao

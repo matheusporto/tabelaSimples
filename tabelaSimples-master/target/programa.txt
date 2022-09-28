@@ -1,0 +1,16 @@
+{criando tabela de pessoas}
+
+definir data dataAniversario = '1998-11-06'
+
+criaTabela pessoas(
+	cadeia: nome,
+	inteiro: idade,
+	data: dataNascimento,
+	real: altura
+)
+
+inserirEm pessoas("Matheus", 23, '1998-11-06', 1.78)
+
+encontraTudo pessoas
+
+encontraEm pessoas onde (nome= "Matheus", idade = 20)

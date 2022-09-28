@@ -1,0 +1,9 @@
+definir cadeia meuNome = "Matheus
+
+criaTabela alunos(
+	cadeia: nome,
+	inteiro: RA,
+	data: dataNascimento
+)
+
+inserirEm alunos(meuNome, 744348, '1998-11-06')

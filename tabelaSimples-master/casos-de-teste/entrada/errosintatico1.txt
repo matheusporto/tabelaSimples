@@ -1,0 +1,9 @@
+criaTabela disciplinas(
+	cadeia: nome,
+	inteiro: codigo,
+	cadeia: professorResponsavel
+)
+
+inserirEm disciplinas("Compiladores", 123, "Daniel Lucredio")
+
+encontraTudo onde disciplinas

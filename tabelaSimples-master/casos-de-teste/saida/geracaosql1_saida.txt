@@ -1,0 +1,15 @@
+DECLARE @dataAniversario date ='1998-11-06';
+
+CREATE TABLE pessoas(
+nome VARCHAR(50),
+idade int,
+dataNascimento date,
+altura float,
+);
+
+INSERT INTO pessoas ("Matheus", 23, '1998-11-06', 1.78);
+
+SELECT * FROM pessoas;
+
+SELECT * FROM pessoas WHERE nome = "Matheus" AND idade = 20;
+

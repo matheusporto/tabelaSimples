@@ -1,0 +1,6 @@
+{criando tabela de cachorros}
+
+criaTabela cachorros~(
+	cadeia: nome,
+	cadeia: raca
+)

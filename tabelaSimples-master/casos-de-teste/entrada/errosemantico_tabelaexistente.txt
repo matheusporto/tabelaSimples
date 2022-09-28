@@ -1,0 +1,12 @@
+criaTabela contratos(
+	cadeia: codigo,
+	data: dataContrato,
+	real: valor
+)
+
+criaTabela contratos(
+	cadeia: ID,
+	real: valor
+)
+
+encontraTudo contratos

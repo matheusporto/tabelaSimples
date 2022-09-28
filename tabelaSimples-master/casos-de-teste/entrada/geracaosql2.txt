@@ -1,0 +1,14 @@
+criaTabela filmes(
+	cadeia: nome,
+	inteiro: idadeMinima,
+	data: dataEstreia,
+	real: valorIngresso
+)
+
+inserirEm filmes("Forrest Gump", 14, '1994-12-07', 10.50)
+
+inserirEm filmes("Naufrago", 12, '2001-01-26', 20.50)
+
+encontraTudo filmes
+
+deletaLinhas filmes onde (idadeMinima = 16)
